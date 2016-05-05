@@ -1,0 +1,7 @@
+oro_testing:
+    resource: "@OroTestingBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

@@ -1,0 +1,3 @@
+oro_testing_homepage:
+    path:     /
+    defaults: { _controller: OroTestingBundle:Default:index }
